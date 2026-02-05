@@ -1,12 +1,18 @@
 # Hey, I'm Xeo 👋
+
 **DeFi Operations Builder** · Core Contributor @ [Balancer](https://balancer.fi) · Founder @ [DeFilytica](https://defilytica.com) · Co-Founder @ [MAXYZ](https://maxyz.xyz)
+
 I build operational infrastructure and analytics platforms for DeFi protocols. My work focuses on making complex protocol operations accessible through well-designed tooling.
+
 ---
 ### 🔧 What I Build
+
 **Operations Infrastructure**  
 Purpose-built tools for on-chain protocol management — automated payload builders, pool configurators, incentive systems, and multisig coordination interfaces.
+
 **Analytics Platforms**  
 Real-time protocol intelligence dashboards with pool metrics, token analytics, financial reporting, and service provider tracking.
+
 ---
 ### 🚀 Live Projects
 | Project | Description | Link |
@@ -25,8 +31,11 @@ Infra          Vercel · GitHub Actions · Docker
 ---
 ### 📌 Featured Repositories
 ➡️ **[balancer-ops-frontend](https://github.com/defilytica/balancer-ops-frontend)** — Governance payload builder & protocol operations toolkit  
+
 ➡️ **[balancer-analytics](https://github.com/Xeonus/balancer-analytics)** — Protocol metrics & financial dashboards  
+
 ➡️ **[aura-analytics](https://github.com/defilytica/aura-analytics)** — Yield optimization & voting market tracking
+
 ---
 ### 📊 Contributions
 ![Xeonus's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeonus&theme=transparent)
