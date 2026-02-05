@@ -20,7 +20,7 @@ Real-time protocol intelligence dashboards with pool metrics, token analytics, f
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Balancer Operations UI** | Governance payload generation, pool management, and protocol operations toolkit | [ops.balancer.fi](https://balancer.defilytica.tools) |
+| **Balancer Operations UI** | Governance payload generation, pool management, and protocol operations toolkit | [balancer.defilytica.tools](https://balancer.defilytica.tools) |
 | **Balancer Analytics** | Protocol metrics, pool analytics, and financial dashboards | [balancer.defilytica.com](https://balancer.defilytica.com) |
 | **Aura Analytics** | Yield optimization tracking and veBAL voting market analysis | [aura.defilytica.com](https://aura.defilytica.com) |
 
